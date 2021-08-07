@@ -1,0 +1,22 @@
+{
+  "name": "declarative-ng-rx-ui-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAHRIO/declarative-ng-rx-ui-seed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAHRIO/declarative-ng-rx-ui-seed/issues"
+  },
+  "homepage": "https://github.com/MAHRIO/declarative-ng-rx-ui-seed#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5"
+  }
+}
